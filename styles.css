@@ -1,0 +1,28 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  .dice {
+    text-align: center;
+    display: inline-block;
+  ​
+  }
+  body {
+    background-color:turquoise;
+  }
+  h1 {
+    margin: 25px;
+    font-family: 'Ubuntu';
+    text-shadow: 8px 0 black;
+    font-size: 8rem;
+    color: red;
+  }
+  p {
+    font-size: 2rem;
+    color: red;
+    font-family: 'Rubik', sans-serif;
+  }
+  img {
+    width: 80%;
+  
